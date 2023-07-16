@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: |
-    hshin1 at ufl dot edu
+    hshin1@ufl.edu
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
