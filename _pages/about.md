@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://stat.ufl.edu/'>University of Florida </a>
+subtitle: Ph.D. Student of Statistics at the <a href='https://stat.ufl.edu/'>University of Florida </a>
 
 profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  address: Ph.D. Student of Statistics at the University of Florida\
-   hshin1@ufl.edu
+  address: hshin1@ufl.edu
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
