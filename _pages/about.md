@@ -8,7 +8,10 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: |
-    ude.lfu@1nihsh
+    <style type=”text/css”>
+p span.displaynone { display:none; }
+</style>
+<p>hshin1@<span class=”displaynone”>null</span>ufl.edu</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
