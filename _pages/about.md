@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student of Statistics at the <a href='https://stat.ufl.edu/'>University of Florida </a>
+subtitle: Ph.D. Student of Statistics at the <a href='https://stat.ufl.edu/'> University of Florida </a>
 
 profile:
   align: right
