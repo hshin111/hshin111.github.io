@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  address: > Ph.D. Student of Statistics at the University of Florida
-  > hshin1@ufl.edu
+  address: Ph.D. Student of Statistics at the University of Florida
+   hshin1@ufl.edu
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
