@@ -2,7 +2,7 @@
 layout: page
 title: news
 permalink: /news/
-nav: TRUE
+nav: false
 ---
 
 {% include news.html %}
