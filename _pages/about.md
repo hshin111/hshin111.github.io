@@ -16,5 +16,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 5th-year Statistics Ph.D. student at the <a href='https://stat.ufl.edu/'> University of Florida </a>
-. I am currently working with Dr. Joseph Antonelli. My research interests lie in causal inference, high-dimensional modeling, flexible Bayesian models, and more broadly, environmental statistics. Before starting my Ph.D., I completed my B.S. in Applied Statistics at Konkuk University in 2019.
+I am a postdoctoral research fellow at Harvard University, working under the mentorship of Dr. Francesca Dominici in the National Studies on Air Pollution and Health ([NSAPH](https://www.hsph.harvard.edu/nsaph/')) group. Before joining Harvard, I completed my Ph.D. in Statistics at the University of Florida, where I was mentored by Dr. Joseph Antonelli. My research interests lie in causal inference, flexible Bayesian models, and more broadly, environmental statistics.
