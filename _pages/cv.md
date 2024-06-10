@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Cv
+title: CV
 description: My complete CV is available by clicking the PDF icon.
 nav: true
 nav_order: 4
