@@ -20,8 +20,9 @@
     - title: Ph.D. in Statistics
       institution: University of Florida
       year: 2024
-      description: 'Advisor: Prof. Joseph Antonelli'
-      description: 'Thesis: Causal Inference with Bayesian Modeling for Challenging Environmental Health Problems'
+      description: 
+        - 'Advisor: Prof. Joseph Antonelli'
+        - 'Thesis: Causal Inference with Bayesian Modeling for Challenging Environmental Health Problems'
     - title: B.S. in Applied Statistics
       institution: Konkuk University, Seoul, Korea
       year: 2019
