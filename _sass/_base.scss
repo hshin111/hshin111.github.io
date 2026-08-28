@@ -34,6 +34,11 @@ table {
   }
 }
 
+.news .news-date {
+  min-width: 7.5rem;
+  white-space: nowrap;
+}
+
 a,
 table.table a {
   color: var(--global-theme-color);
