@@ -9,9 +9,12 @@
 - title: Employment
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: Department of Applied Statistics, Konkuk University, Seoul, Korea
+      year: 2026-now
     - title: Postdoctoral Research Fellow
       institution: Harvard University
-      year: 2024-now
+      year: 2024-2026
       description: 'Mentor: Prof. Francesca Dominici'
       
 - title: Education
@@ -25,6 +28,25 @@
         - 'Thesis: Causal Inference with Bayesian Modeling for Challenging Environmental Health Problems'
     - title: B.S. in Applied Statistics
       institution: Konkuk University, Seoul, Korea
+      year: 2019
+
+- title: Selected Honors & Awards
+  type: time_table
+  contents:
+    - title: IMS New Researcher Travel Award
+      institution: Institute of Mathematical Statistics
+      year: 2025
+    - title: The Norman Breslow Prize
+      institution: American Statistical Association Statistics in Epidemiology Section
+      year: 2025
+    - title: Early Career Paper Award
+      institution: American Statistical Association Biometrics Section
+      year: 2024
+    - title: The John Van Ryzin Award
+      institution: International Biometric Society Eastern North American Region
+      year: 2022
+    - title: The President’s Award
+      institution: Korean Statistical Society
       year: 2019
 
 #- title: Experience
