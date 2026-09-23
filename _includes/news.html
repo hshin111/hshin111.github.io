@@ -4,12 +4,10 @@
             <div class="table-responsive" {% if include.limit and site.announcements.scrollable and news_size > 3 %}style="max-height: 60vw"{% endif %}>
               <table class="table table-sm table-borderless">
               {%- assign news = site.news | reverse -%}
-              {% if include.limit and site.announcements.limit %}
-              {% assign news_limit = site.announcements.limit %}
-              {% else %}
-              {% assign news_limit = news_size %}
-              {% endif %}
-              {% for item in news limit: news_limit %}
+              {% assign displayed_news = 0 %}
+              {% for item in news %}
+                {% unless item.homepage == false %}
+                {% if include.limit and site.announcements.limit and displayed_news >= site.announcements.limit %}{% break %}{% endif %}
                 <tr>
                   <th scope="row" class="news-date">{{ item.date | date: "%b %Y" }}</th>
                   <td>
@@ -20,6 +18,8 @@
                     {%- endif %}
                   </td>
                 </tr>
+                {% assign displayed_news = displayed_news | plus: 1 %}
+                {% endunless %}
               {%- endfor %}
               </table>
             </div>

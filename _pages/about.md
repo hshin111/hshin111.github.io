@@ -22,4 +22,4 @@ Before joining Konkuk University, I was a postdoctoral research fellow at Harvar
 
 My research broadly focuses on causal inference, with particular interests in methods for continuous treatments and treatment effect heterogeneity. I primarily apply these methods to problems in environmental health.
 
-Students interested in causal inference and in working with me are encouraged to contact me by email.
+**Students interested in causal inference and in working with me are encouraged to contact me by email.**
